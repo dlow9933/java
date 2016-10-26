@@ -1,0 +1,32 @@
+import java.util.Arrays;
+class Array1{
+		public static  voidmain (String a[]){
+				int i;
+				int[] ia ;
+				ia = new int[20];
+					ia[0] = 7;
+					ia[1] = -7;
+					ia[2] = 4;
+					ia[3] = -4;
+					ia[4] = -2;
+					ia[5] = -1;
+					ia[6] = 2;
+					ia[7] = -6;
+					ia[8] = -3;
+					ia[9] = 1;
+					ia[10] = -5;
+					ia[11] = -8;
+					ia[12] = -9;
+					
+			//print array
+					 
+					System.out.println("Array $
+					for (i = 0;  i <=11; i++){
+								System.out.print(i$
+								
+					}
+					
+					Arrays.sort(ia);
+					
+					System.out.println("\nArra$
+					
